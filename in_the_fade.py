@@ -293,9 +293,6 @@ class in_the_fade():
             pt = data[xx]
         return changes
 
-    def interpolate_datetime_data(self, startdate, enddate, startdata, enddata):
-        pass
-
     def clean_key(self, key):
         if key == "" or key == None:
             key = "blank"
