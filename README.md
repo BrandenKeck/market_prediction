@@ -1,4 +1,4 @@
-# in_the_fade  
+# In The Fade
   
 ## Overview  
 Financial analysis project to develop and analyze the effectiveness of combinde stock market / cryptocurrancy portfolios  
