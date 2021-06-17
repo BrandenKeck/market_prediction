@@ -1,7 +1,4 @@
-# In The Fade
+# Market Prediction Project
   
 ## Overview  
-Financial analysis project to develop and analyze the effectiveness of combinde stock market / cryptocurrancy portfolios  
-  
-## Progress  
-API Links are currently being established.  (Note: Code is not executable without created a keys.json file with personal API keys)  
+An attempt to leverage Keras' CNN architechture to develop a model for cryptocurrency price prediction.
